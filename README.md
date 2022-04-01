@@ -1,0 +1,1 @@
+# Text-Recognition-via-Adaptation-and-Clustering
